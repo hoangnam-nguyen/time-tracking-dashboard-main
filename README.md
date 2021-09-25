@@ -25,15 +25,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot-desktop.jpg)
-![](./images/screenshot-mobile1.jpg)
-![](./images/screenshot-mobile2.jpg)
-![](./images/screenshot-mobile3.jpg)
+![](./images/screenshot-desktop.png)
+![](./images/screenshot-mobile1.png)
+![](./images/screenshot-mobile2.png)
+![](./images/screenshot-mobile3.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/hoangnam-nguyen/time-tracking-dashboard-main](https://github.com/hoangnam-nguyen/time-tracking-dashboard-main)
+- Live Site URL: [https://hoangnam-nguyen.github.io/time-tracking-dashboard-main/](https://hoangnam-nguyen.github.io/time-tracking-dashboard-main/)
 
 ## My process
 
